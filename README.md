@@ -36,5 +36,5 @@ If you use this work, please cite our paper:
   author={Sharma, Swati and Chakrabarty, Mrinmoy and Ray, Sonia Baloni and Shukla, Jainendra},
   journal={Computers in Biology and Medicine},
   year={2025},
-  doi={to be updated}
+  doi={10.1016/j.compbiomed.2025.110878}
 }
