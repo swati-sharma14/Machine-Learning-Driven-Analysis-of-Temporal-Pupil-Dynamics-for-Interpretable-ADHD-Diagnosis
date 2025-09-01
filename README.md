@@ -27,12 +27,14 @@ We introduce an interpretable machine learning framework that leverages temporal
 - Sensitivity: 97.8%  
 - Specificity: 82.2%  
 
-# Citation
+## Citation
 If you use this work, please cite our paper:
-@article{sharma2025adhd, \\
-  title={Machine Learning-Driven Analysis of Temporal Pupil Dynamics for Interpretable ADHD Diagnosis}, \\
-  author={Sharma, Swati and Chakrabarty, Mrinmoy and Ray, Sonia Baloni and Shukla, Jainendra}, \\
-  journal={Computers in Biology and Medicine}, \\
-  year={2025}, \\
-  doi={10.1016/j.compbiomed.2025.110878} \\
+
+```bibtex
+@article{sharma2025adhd,
+  title={Machine Learning-Driven Analysis of Temporal Pupil Dynamics for Interpretable ADHD Diagnosis},
+  author={Sharma, Swati and Chakrabarty, Mrinmoy and Ray, Sonia Baloni and Shukla, Jainendra},
+  journal={Computers in Biology and Medicine},
+  year={2025},
+  doi={to be updated}
 }
